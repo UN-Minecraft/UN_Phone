@@ -137,88 +137,28 @@ panels:
     rows: 6
     title: "\u3201\u3201&f\u3203"
     item:
-      '12':
+      '12-14':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '13':
+      '21-23':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '14':
+      '30-32':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '21':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '22':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '23':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '30':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '31':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '32':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '39':
-        material: DIAMOND
-        stack: 1
-        name: '§c Venda su item'
-        lore:
-        - '§c Ingrese para publicar su item'
-        commands:
-        - open= MercadoLibreShop
-        customdata: 1
-      '40':
-        material: DIAMOND
-        stack: 1
-        name: '§c Venda su item'
-        lore:
-        - '§c Ingrese para publicar su item'
-        commands:
-        - open= MercadoLibreShop
-        customdata: 1
-      '41':
+      '39-41':
         material: DIAMOND
         stack: 1
         name: '§c Venda su item'
@@ -232,9 +172,9 @@ panels:
         stack: 1
         name: 'Inicio'
         lore:
-        - 'Click aca para volver a la pagina principal'
+        - 'Click aca para volver al inicio del Celular'
         commands:
-        - open= MercadoLibreHomePage
+        - open= celular
         customdata: 1
       '50':
         material: DIAMOND
@@ -251,88 +191,28 @@ panels:
     rows: 6
     title: "\u3201\u3201&f\u3204"
     item:
-      '12':
+      '12-14':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '13':
+      '21-23':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '14':
+      '30-32':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '21':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '22':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '23':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '30':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '31':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '32':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '39':
-        material: DIAMOND
-        stack: 1
-        name: '§c Venda su item'
-        lore:
-        - '§c Ingrese para publicar su item'
-        commands:
-        - open= MercadoLibreShop
-        customdata: 1
-      '40':
-        material: DIAMOND
-        stack: 1
-        name: '§c Venda su item'
-        lore:
-        - '§c Ingrese para publicar su item'
-        commands:
-        - open= MercadoLibreShop
-        customdata: 1
-      '41':
+      '39-41':
         material: DIAMOND
         stack: 1
         name: '§c Venda su item'
@@ -355,9 +235,9 @@ panels:
         stack: 1
         name: '§e Inicio'
         lore:
-        - '§e Click aca para volver a la pagina principal'
+        - '§e Click aca para volver al inicio del Celular'
         commands:
-        - open= MercadoLibreHomePage
+        - open= celular
         customdata: 1
       '50':
         material: DIAMOND
@@ -374,88 +254,28 @@ panels:
     rows: 6
     title: "\u3201\u3201&f\u3205"
     item:
-      '12':
+      '12-14':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '13':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-          - '§a x item en venta por x player'
-        customdata: 1
-      '14':
+      '21-23':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '21':
+      '30-32':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '22':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '23':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '30':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '31':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '32':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '39':
-        material: DIAMOND
-        stack: 1
-        name: '§c Venda su item'
-        lore:
-        - '§c Ingrese para publicar su item'
-        commands:
-        - open= MercadoLibreShop
-        customdata: 1
-      '40':
-        material: DIAMOND
-        stack: 1
-        name: '§c Venda su item'
-        lore:
-        - '§c Ingrese para publicar su item'
-        commands:
-        - open= MercadoLibreShop
-        customdata: 1
-      '41':
+      '39-41':
         material: DIAMOND
         stack: 1
         name: '§c Venda su item'
@@ -478,9 +298,9 @@ panels:
         stack: 1
         name: '§e Inicio'
         lore:
-        - '§e Click aca para volver a la pagina principal'
+        - '§e Click aca para volver al inicio del Celular'
         commands:
-        - open= MercadoLibreHomePage
+        - open= celular
         customdata: 1
 
   MercadoLibreSell:
@@ -495,63 +315,21 @@ panels:
         lore:
         - 'Carrito de compras'
         customdata: 1
-      '12':
+      '12-14':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '13':
+      '21-23':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
         lore:
         - '§a x item en venta por x player'
         customdata: 1
-      '14':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '21':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '22':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '23':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '30':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '31':
-        material: DIAMOND
-        stack: 1
-        name: '§a Articulo en venta'
-        lore:
-        - '§a x item en venta por x player'
-        customdata: 1
-      '32':
+      '30-32':
         material: DIAMOND
         stack: 1
         name: '§a Articulo en venta'
@@ -581,13 +359,8 @@ panels:
         stack: 1
         name: '§e Inicio'
         lore:
-        - '§e Click aca para volver a la pagina principal'
+        - '§e Click aca para volver al inicio del Celular'
         commands:
-        - open= MercadoLibreHomePage
+        - open= celular
         customdata: 1
-
-
-      
-
-
 
