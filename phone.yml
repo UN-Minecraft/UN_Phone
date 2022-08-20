@@ -92,7 +92,7 @@ panels:
   nequi:
     perm: default
     rows: 6
-    title: "Nequi"
+    title: "\u3201\u3201&f\u3202"
     item:
       '39':
         material: DIAMOND
@@ -123,6 +123,8 @@ panels:
         name: 'Atras'
         lore:
         - 'Devuelve a la página anterior'
+        commands:
+        - open= celular
         customdata: 1
       '14':
         material: DIAMOND
@@ -585,9 +587,3 @@ panels:
         commands:
         - open= MercadoLibreHomePage
         customdata: 1
-
-
-      
-
-
-
