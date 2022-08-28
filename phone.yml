@@ -20,6 +20,11 @@ panels:
         lore:
         - '&f¿No quieres que te atrapen?, no hay problema, Con esta App'
         - '&fpuedes comprar armas y drogas de forma totalmente anónima.'
+        player-input:
+        - "send= /deepweb %cp-player-input%"
+        commands:
+        - cpc
+        - msg= &c Ya entraste a la DeepWeb, escribele a tu flecho a continuacion
         customdata: 1
       '5':
         material: DIAMOND
