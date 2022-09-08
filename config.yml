@@ -20,7 +20,7 @@ config:
   update-notifications: true
   panel-snooper: false
   format:
-    tag: '&6[&bUn-Roleplay(commandpanels)&6] '
+    tag: '&7[&e&lUN-Roleplay&7]'
     perms: '&cNo permission.'
     reload: '&aReloaded.'
     nopanel: '&cPanel not found.'
