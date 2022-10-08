@@ -107,6 +107,69 @@
 			"chars": [
 				"\u320B"
 			]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/Abogado.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [
+				"\u19F6"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/Aseador.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [
+				"\u1392"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/Builders.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [
+				"\u1393"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/Estudiante.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [
+				"\u1394"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/Medico.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [
+				"\u1395"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/Policia.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [
+				"\u1396"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "along:font/Rector.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [
+				"\u1397"
+			]
 		}
 	]
 }
