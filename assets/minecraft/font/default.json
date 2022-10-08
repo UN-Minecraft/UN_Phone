@@ -2,7 +2,7 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "along:font/celular2.png",
+			"file": "along:font/celular3.png",
 			"ascent": 134,
 			"height": 256,
 			"chars": [
